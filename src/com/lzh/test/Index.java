@@ -107,7 +107,7 @@ public class Index {
     public static void main(String[] args) throws IOException {
     	//目录，里边可以没有内容
         String indexDir="E:\\lucene\\index";
-        //文件，里边要有.java文件
+        //文件，里边要有文件
         String dataDir="E:\\lucene\\example";
         //当前时间
         long start=System.currentTimeMillis();
